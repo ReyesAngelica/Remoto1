@@ -1,2 +1,2 @@
 echo "Proyecto para borrar" >>README.md
-echo "Juego" >> README.md
+echo "JuegoOK" >> README.md
